@@ -30,10 +30,4 @@ Identifying weak passwords before an attacker does is a basic but essential step
 
 ## Status
 
-Learning project — built as part of a self-study path in Python for cybersecurity/pentesting fundamentals.
-
-## Next steps
-
-- Read the wordlist from an external `.txt` file instead of a hardcoded list
-- Add error handling (`try/except`)
-- Accept user input for a single password check
+Learning project built as part of a self-study path in Python for cybersecurity/pentesting.
